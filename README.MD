@@ -1,14 +1,18 @@
-## Repoistory Name
+## AEM_Keypad
 
 ### Description
 AEM keypad CAN controller written in Arduino C for the Teensey 3.2 to read button presses and write LED values<br />
 
 ### Starting
-To download this project to your computer:
+To download this project to your computer either Use Github Desktop or command line git:
+
+#### Github Desktop
+Install https://desktop.github.com/ and setup a local repoistory
+#### Git
 1. Install GIT: https://git-scm.com/downloads
 1. Go into your main project directory, open commad line and run:<br />
 `git clone https://github.com/your_username/TBRe21-TSAL.git` <br />
-Alternativley Install https://desktop.github.com/ and setup a local repoistory
+
 
 ### Download the latest changes
 If you would like to download the latest files from Github, then:<br />
